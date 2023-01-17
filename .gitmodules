@@ -1,0 +1,12 @@
+[submodule "MatchFollower"]
+	path = MatchFollower
+	url = https://github.com/MaxMicheluttiUnitn/MatchFollower
+[submodule "VolleyBotTelegram"]
+	path = VolleyBotTelegram
+	url = https://github.com/MaxMicheluttiUnitn/VolleyBotTelegram
+[submodule "TelegramNewsFeeder"]
+	path = TelegramNewsFeeder
+	url = https://github.com/MaxMicheluttiUnitn/TelegramNewsFeeder
+[submodule "se2023_REST_backend"]
+	path = se2023_REST_backend
+	url = https://github.com/MaxMicheluttiUnitn/se2023_REST_backend
